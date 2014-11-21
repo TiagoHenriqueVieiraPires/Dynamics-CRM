@@ -1886,7 +1886,7 @@ function DebbugAdministrator() {
     }
 }
 
-//É preciso adicionar biblioteca do jquery nos forms que usam esta função
+//É necessário adicionar biblioteca do jquery nos forms que usam esta função
 function ChamaServicoAssincrono(url, method, sucessCallback, erroCallBack) {
     var servico = this;
     var parameter = null;
